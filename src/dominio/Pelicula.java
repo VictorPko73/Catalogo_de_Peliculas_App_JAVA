@@ -43,7 +43,7 @@ public class Pelicula {
     }
 
     public static void main(String[] args) {
-        var pelicula1 = new Pelicula("Bat");
+        var pelicula1 = new Pelicula("Batm");
         var pelicula2 = new Pelicula("Superman");
         System.out.println(pelicula1);
         System.out.println(pelicula2);
